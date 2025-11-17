@@ -9,4 +9,4 @@ algorithmia==1.3.0
 scikit-video==1.1.11
 tf_slim==1.1.0
 PyYAML==6.0
-flask-ngrok
+flask-ngrok==0.0.25
